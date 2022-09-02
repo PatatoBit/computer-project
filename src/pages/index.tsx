@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main className="fullflex">
-        <h1 className="text-7xl incon shadow-md">Intertots Trillingual School🌍</h1>
+        <h1 className="text-7xl incon shadow-lg bg-white p-2 rounded-lg">Intertots Trillingual School🌍</h1>
       </main>
 
       <About />

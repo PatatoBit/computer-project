@@ -3,11 +3,11 @@ import React from 'react'
 function About() {
   return (
 	  <div className="fullflex">
+		  
 		<div className="bg-slate-100 flex flex-col p-2 border-2 border-slate-200 w-1/2 items-center justify-center my-5">
-			<h1 className='text-5xl font-bold incon'>About the School</h1>
+			<h1 className='text-5xl font-bold incon my-2'>About the School</h1>
 			<p className='text-xl incon'>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa maxime eligendi consequatur nesciunt recusandae sint repellendus commodi provident, in quaerat accusantium exercitationem aspernatur, dolorum ducimus modi itaque aut incidunt voluptatem.</p>
    		</div>
-
 
 		  <iframe 
 			  className='shadow-md rounded-lg'
